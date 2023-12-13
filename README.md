@@ -2,7 +2,7 @@
     <h3 >FRONT-END WEB DEVELOPER</h3>
     <h3 >A creative and innovative techie aspiring to constantly hone my skills by building projects,endlessly learning and connecting with others on the Software Development Community under the guidance of the Open Source Odin Project Curriculum.</h3>
     
-    ###
+  
     
     <img width="370"  src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv"  />
     
@@ -21,14 +21,14 @@
       <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=C-ZLTV&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"  />
     </div>
     
-    ###
     
     
-    ###
+    
+  
     
     <img width="370" src="https://64.media.tumblr.com/20b610edb5108bbb2f90c2a6394af115/8ee0824af54ebf42-d0/s1280x1920/643c58fd209be1ef83e82356fdee0c22754d4fe0.jpg"  />
     
-    ###
+   
     
     <div>
       <h4>Other Technologies:</h4>
@@ -43,14 +43,14 @@
       <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
     </div>
     
-    ###
+    
     
     <div>
         <h4>Transpiler</h4>
         <img src="" alt="babel logo">
     </div>
 
-    ###
+  
     
     <div>
       <h4>Styling and Design Stack:</h4>
@@ -59,7 +59,7 @@
       <img src="" alt="tailwind css">
    </div>
     
-    ###
+    
     
     <div>
       <h4 >Would like to learn:</h4>
@@ -73,7 +73,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
     </div>
     
-    ###
+   
     
     
     <div>
@@ -86,7 +86,7 @@
       </a>
     </div>
     
-    ###
+ 
     
    
 <!---
