@@ -4,7 +4,8 @@
 
 ### Bio:
 
-An Engineering Student with a desire to explore the Realms of  Software Development. Unmasking Javascript under the hood to horn my Frontend Skills.
+An Engineering Student with a desire to explore the Realms of  Software Development.
+Unmasking Javascript under the hood to horn my Frontend Skills.
             
 
 ### Streetcred:
