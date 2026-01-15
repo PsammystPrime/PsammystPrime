@@ -1,4 +1,9 @@
-@ -1,129 +1,84 @@
+<p align="center">
+    <img
+        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samuel%20Njuguna&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Technical%20Writer%20%7C%20Web%20Security%20Pentester&descAlignY=55" />
+</p>
+
+
 # Hello there! I'm Samuel Njuguna 👋
 
 ### 🚀 Fullstack Developer | ✍️ Technical Writer | 🛡️ Web Security Pentester | 📝 Electrical Engineer
@@ -10,6 +15,11 @@
 I am a creative and innovative professional dedicated to building secure, scalable, and user-centric web applications. With a strong foundation in **Fullstack Development**, a keen eye for **Web Security**, and a passion for **Technical Writing**, I strive to create high-quality software while making technical knowledge accessible to everyone.
 
 As a results-driven professional with hands-on experience across frontend, backend, databases, deployment, security testing and PLC programming. I focus on practical engineering, performance, and real-world impact.
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=PsammystPrime&style=for-the-badge" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=PsammystPrime&theme=radical&hide_border=true" />
+</p>
 
 My learning foundation was shaped by strong communities such as **The Odin Project**, **MDN Web Docs**, and **freeCodeCamp** and studied Electrical and Electronic Engineering from **THIKA TECHNICAL TRAINING INSTITUTE**. Today, my growth is driven primarily by building, breaking, and shipping real systems.
 
@@ -29,7 +39,7 @@ My learning foundation was shaped by strong communities such as **The Odin Proje
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PsammystPrime&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/streak-stats?user=PsammystPrime&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
