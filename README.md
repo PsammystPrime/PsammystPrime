@@ -24,12 +24,12 @@ My learning foundation was shaped by strong communities such as **The Odin Proje
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PsammystPrime&show_icons=true&theme=radical&hide_border=true" alt="Samuel's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsammystPrime&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=PsammystPrime&show_icons=true&theme=radical&hide_border=true" alt="Samuel's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PsammystPrime&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PsammystPrime&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=PsammystPrime&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -123,9 +123,9 @@ cron-based fairness logic.
 ## 📊 Performance & Metrics
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PsammystPrime&show_icons=true&theme=radical&hide_border=true"
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=PsammystPrime&show_icons=true&theme=radical&hide_border=true"
         height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PsammystPrime&layout=compact&theme=radical&hide_border=true"
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=PsammystPrime&layout=compact&theme=radical&hide_border=true"
         height="165" />
 </p>
 
@@ -193,7 +193,7 @@ I am currently open to opportunities in the following areas:
 - Microfinance
 - E-commerce
 
-If you're hiring, most of production and business logic projects are private powering real life systems and businesses but reach out to me if you have a project in mind. I'm available for remote work, full-time work, and can be reached at psammystprime@gmail.com. 
+If you're hiring, most of production and business logic projects are private powering real life systems and businesses but reach out to me if you have a project in mind. I'm available for remote work, full-time work, and can be reached at psammystprime384@gmail.com. 
 
 
 
