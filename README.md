@@ -139,6 +139,20 @@ I write technical documentation and developer-friendly guides focused on:
 - Security concepts explained simply
 - Debugging real-world production issues
 
+---
+
+### 🔐 Web Security & Pentesting Toolkit
+
+Focus Areas:
+- OWASP Top 10 vulnerabilities
+- Input validation & injection flaws
+- Authentication & session security
+- API security testing
+- Client-side attack vectors
+- Misconfiguration audits
+
+---
+
 ### 🏆 Streetcred & Recognition
 
 <div align="center">
@@ -165,6 +179,23 @@ I write technical documentation and developer-friendly guides focused on:
         <img src="https://asset.brandfetch.io/idVwlIgcrO/idoQAHslQ6.jpeg" width="70" alt="MDN Web Docs" />
     </a>
 </p>
+
+---
+### 📚 Jobs & Hiring
+I am currently open to opportunities in the following areas:
+- Full-stack development
+- Security research
+- Penetration testing
+- Software architecture
+- System design
+- Betting and i-Gaming
+- Payment Integration
+- Microfinance
+- E-commerce
+
+If you're hiring, most of production and business logic projects are private powering real life systems and businesses but reach out to me if you have a project in mind. I'm available for remote work, full-time work, and can be reached at psammystprime@gmail.com. 
+
+
 
 ---
 <p align="center">
