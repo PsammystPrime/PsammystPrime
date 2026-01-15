@@ -1,12 +1,13 @@
 <p align="center">
     <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samuel%20Njuguna&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Technical%20Writer%20%7C%20Web%20Security%20Pentester&descAlignY=55" />
+        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samuel%20Njuguna👋%20&fontSize=50&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20%7C%20✍️%20Technical%20Writer%20%7C%20🛡️%20Web%20Security%20Pentester%20%7C%20🔌%20Electrical%20Engineer&descAlignY=55" />
 </p>
 
 
-# Hello there! I'm Samuel Njuguna 👋
-
-### 🚀 Fullstack Developer | ✍️ Technical Writer | 🛡️ Web Security Pentester | 📝 Electrical Engineer
+# 🏅2026 Developer Reputation
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=PsammystPrime&style=for-the-badge" />
+</p>
 
 ---
 
@@ -15,11 +16,6 @@
 I am a creative and innovative professional dedicated to building secure, scalable, and user-centric web applications. With a strong foundation in **Fullstack Development**, a keen eye for **Web Security**, and a passion for **Technical Writing**, I strive to create high-quality software while making technical knowledge accessible to everyone.
 
 As a results-driven professional with hands-on experience across frontend, backend, databases, deployment, security testing and PLC programming. I focus on practical engineering, performance, and real-world impact.
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=PsammystPrime&style=for-the-badge" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=PsammystPrime&theme=radical&hide_border=true" />
-</p>
 
 My learning foundation was shaped by strong communities such as **The Odin Project**, **MDN Web Docs**, and **freeCodeCamp** and studied Electrical and Electronic Engineering from **THIKA TECHNICAL TRAINING INSTITUTE**. Today, my growth is driven primarily by building, breaking, and shipping real systems.
 
@@ -95,14 +91,18 @@ A curated portfolio of production systems I have designed, engineered, and deplo
 
 #### **Staffood Grocery Store**
 - **URL:** [https://www.staffood.co.ke/](https://www.staffood.co.ke/)
-- **Description:** A production-grade online grocery store enabling customers to browse products and place orders.
-- **Focus:** UI performance, secure authentication, and scalable backend.
+- **Problem:** Needed a modern online grocery storefront
+- **Solution:** Built a scalable frontend + backend system optimized for usability
+- **Impact:** More Groceries users especially in Nairobi due to the Online Order System, More Revenue.
 - <img src="https://api.microlink.io/?url=https://www.staffood.co.ke/&screenshot=true&meta=false&embed=screenshot.url"
     width="300" alt="Staffood preview" />
 
 #### **RG Microfinance**
 - **URL:** [https://www.rgmicrofinance.co.ke/](https://www.rgmicrofinance.co.ke/)
 - **Description:** Loans on items platform establishing trust and credibility for microfinance services.
+- **Problem:** Needed online credibility and clear service presentation
+- **Solution:** Built structured business website with performance focus for Both Business and Customers keeping inventory for both Offline and Online Loans and Sales.
+- **Impact:** Improved online presence and accessibility, Online Loan Application System and Easy Customer Management.
 - <img
     src="https://api.microlink.io/?url=https://www.rgmicrofinance.co.ke/&screenshot=true&meta=false&embed=screenshot.url"
     width="300" alt="RG Microfinance preview" />
@@ -110,6 +110,9 @@ A curated portfolio of production systems I have designed, engineered, and deplo
 #### **TikTok Marketplace**
 - **URL:** [https://www.tiktokmarketplace.top/](https://www.tiktokmarketplace.top/)
 - **Description:** TikTok Marketplace platform enabling customers to buy and sell TikTok Accounts.
+- **Problem:** Tiktok Regulations and Bans resulted in creators needing more accounts to maintain their online presence without fear of being scammed. This Created a need for a platform to buy and sell TikTok Accounts.
+- **Solution:** Built a platform to buy and sell TikTok Accounts with a secure payment system and a user-friendly interface.
+- **Impact:** Easy to use and secure platform to buy and sell TikTok Accounts. Still under development
 - <img
     src="https://api.microlink.io/?url=https://www.tiktokmarketplace.top/&screenshot=true&meta=false&embed=screenshot.url"
     width="300" alt="TikTok Marketplace preview" />
@@ -117,27 +120,70 @@ A curated portfolio of production systems I have designed, engineered, and deplo
 #### **SmartLink URL Shortener**
 - **URL:** [http://googleurl.vercel.app/](http://googleurl.vercel.app/)
 - **Description:** URL Shortener platform for shortening URLs and viewing analytics and Traffic Sources for Free. A free alternative to Bitly
+- **Problem:** Free URL Shorteners did not provide enough analytics and traffic sources without a subscription. I got annoyed and decided to build my own.
+- **Solution:** Built a URL Shortener platform that provides enough analytics and traffic sources for free.
+- **Impact:** Online Merchants and Marketers can now use a free URL Shortener platform to shorten their URLs and view analytics and traffic sources.
 - <img
     src="https://api.microlink.io/?url=http://googleurl.vercel.app/&screenshot=true&meta=false&embed=screenshot.url"
     width="300" alt="SmartLink URL Shortener preview" />
 
 ### 🎮 Gaming & Betting Engines (Pinky Games)
 
-- **Crash Game Platform (Aviator-style):** Real-time engine with WebSocket-driven live gameplay, wallet deductions, and
-cron-based fairness logic.
-- **Spin-the-Wheel Platform:** Custom probability-based betting logic and secure backend validation.
+- **Crash Game Platform (Aviator-style):** Real-time engine with live gameplay, unique User Interface, and
+designed a safe backend validation to prevent abuse and ensure fairness logic.
+- **Spin-the-Wheel Platform:** Custom probability-based betting logic and secure backend validation that is provably fair to players.
 - **Betting Utilities:** Custom URL shorteners with analytics and automation utilities for engagement.
 
 ---
 
-## 📊 Performance & Metrics
+## 📊 Moral Obligation
 
 <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=PsammystPrime&show_icons=true&theme=radical&hide_border=true"
-        height="165" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=PsammystPrime&layout=compact&theme=radical&hide_border=true"
-        height="165" />
+<svg width="700" height="140" viewBox="0 0 700 140" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Handwriting effect -->
+    <style>
+      .quote {
+        font: 22px 'Georgia', serif;
+        fill: none;
+        stroke: #58a6ff;
+        stroke-width: 1.4;
+        stroke-dasharray: 1200;
+        stroke-dashoffset: 1200;
+        animation: write 6s ease forwards, float 4s ease-in-out infinite;
+      }
+
+      @keyframes write {
+        to { stroke-dashoffset: 0; }
+      }
+
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(4px); }
+      }
+    </style>
+
+    <!-- Water ripple distortion -->
+    <filter id="water">
+      <feTurbulence type="turbulence" baseFrequency="0.01" numOctaves="2" result="noise">
+        <animate attributeName="baseFrequency" dur="6s" values="0.01;0.02;0.01" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="6"/>
+    </filter>
+  </defs>
+
+  <text x="50%" y="60" text-anchor="middle" class="quote" filter="url(#water)">
+    "I have always depended on the kindness of strangers"
+  </text>
+
+  <text x="50%" y="100" text-anchor="middle" class="quote" style="animation-delay:2s" filter="url(#water)">
+    — Blanche Dubois, A Streetcar Named Desire
+  </text>
+
+</svg>
 </p>
+
 
 ---
 
