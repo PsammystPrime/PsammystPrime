@@ -1,6 +1,6 @@
 <p align="center">
     <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samuel%20Njuguna👋%20&fontSize=50&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20%7C%20✍️%20Technical%20Writer%20%7C%20🛡️%20Web%20Security%20Pentester%20%7C%20🔌%20Electrical%20Engineer&descAlignY=55" />
+        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samuel%20Njuguna👋%20&fontSize=50&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20✍️%20Technical%20Writer%20🛡️%20Web%20Security%20Pentester%20🔌%20Electrical%20Engineer&descAlignY=55" />
 </p>
 
 
@@ -139,49 +139,7 @@ designed a safe backend validation to prevent abuse and ensure fairness logic.
 ## 📊 Moral Obligation
 
 <p align="center">
-<svg width="700" height="140" viewBox="0 0 700 140" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <!-- Handwriting effect -->
-    <style>
-      .quote {
-        font: 22px 'Georgia', serif;
-        fill: none;
-        stroke: #58a6ff;
-        stroke-width: 1.4;
-        stroke-dasharray: 1200;
-        stroke-dashoffset: 1200;
-        animation: write 6s ease forwards, float 4s ease-in-out infinite;
-      }
-
-      @keyframes write {
-        to { stroke-dashoffset: 0; }
-      }
-
-      @keyframes float {
-        0%, 100% { transform: translateY(0px); }
-        50% { transform: translateY(4px); }
-      }
-    </style>
-
-    <!-- Water ripple distortion -->
-    <filter id="water">
-      <feTurbulence type="turbulence" baseFrequency="0.01" numOctaves="2" result="noise">
-        <animate attributeName="baseFrequency" dur="6s" values="0.01;0.02;0.01" repeatCount="indefinite"/>
-      </feTurbulence>
-      <feDisplacementMap in="SourceGraphic" in2="noise" scale="6"/>
-    </filter>
-  </defs>
-
-  <text x="50%" y="60" text-anchor="middle" class="quote" filter="url(#water)">
-    "I have always depended on the kindness of strangers"
-  </text>
-
-  <text x="50%" y="100" text-anchor="middle" class="quote" style="animation-delay:2s" filter="url(#water)">
-    — Blanche Dubois, A Streetcar Named Desire
-  </text>
-
-</svg>
+  <img src="./quote.svg" width="700" alt="Moral Obligation Quote" />
 </p>
 
 
