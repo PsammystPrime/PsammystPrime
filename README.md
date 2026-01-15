@@ -44,11 +44,7 @@ My learning foundation was shaped by strong communities such as **The Odin Proje
     </td>
     <td valign="top" width="50%">
       <h4>⚙️ Backend</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,ruby,npm" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🔌 Payment Integration</h4>
-      <img src="https://skillicons.dev/icons?i=stripe,razorpay" />
+      <img src="https://skillicons.dev/icons?i=nodejs,ruby,npm,laravel,php" />
     </td>
   </tr>
   <tr>
@@ -62,7 +58,7 @@ My learning foundation was shaped by strong communities such as **The Odin Proje
     </td>
     <td valign="top" width="50%">
       <h4>🔌 Electrical Engineering</h4>
-      <img src="https://skillicons.dev/icons?i=plc,arduino,industrial" />
+      <img src="https://skillicons.dev/icons?i=arduino" />
     </td>
   </tr>
 </table>
@@ -92,14 +88,28 @@ A curated portfolio of production systems I have designed, engineered, and deplo
 - **Description:** A production-grade online grocery store enabling customers to browse products and place orders.
 - **Focus:** UI performance, secure authentication, and scalable backend.
 - <img src="https://api.microlink.io/?url=https://www.staffood.co.ke/&screenshot=true&meta=false&embed=screenshot.url"
-    width="600" alt="Staffood preview" />
+    width="300" alt="Staffood preview" />
 
 #### **RG Microfinance**
 - **URL:** [https://www.rgmicrofinance.co.ke/](https://www.rgmicrofinance.co.ke/)
 - **Description:** Loans on items platform establishing trust and credibility for microfinance services.
 - <img
     src="https://api.microlink.io/?url=https://www.rgmicrofinance.co.ke/&screenshot=true&meta=false&embed=screenshot.url"
-    width="600" alt="RG Microfinance preview" />
+    width="300" alt="RG Microfinance preview" />
+
+#### **TikTok Marketplace**
+- **URL:** [https://www.tiktokmarketplace.top/](https://www.tiktokmarketplace.top/)
+- **Description:** TikTok Marketplace platform enabling customers to buy and sell TikTok Accounts.
+- <img
+    src="https://api.microlink.io/?url=https://www.tiktokmarketplace.top/&screenshot=true&meta=false&embed=screenshot.url"
+    width="300" alt="TikTok Marketplace preview" />
+
+#### **SmartLink URL Shortener**
+- **URL:** [http://googleurl.vercel.app/](http://googleurl.vercel.app/)
+- **Description:** URL Shortener platform for shortening URLs and viewing analytics and Traffic Sources for Free. A free alternative to Bitly
+- <img
+    src="https://api.microlink.io/?url=http://googleurl.vercel.app/&screenshot=true&meta=false&embed=screenshot.url"
+    width="300" alt="SmartLink URL Shortener preview" />
 
 ### 🎮 Gaming & Betting Engines (Pinky Games)
 
@@ -139,19 +149,6 @@ I write technical documentation and developer-friendly guides focused on:
 
 ---
 
-### 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://twitter.com/Psammystprime1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-njuguna-b74abb28b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br />
-
 ## 📚 Communities & Foundations
 
 <p align="center">
@@ -169,8 +166,7 @@ I write technical documentation and developer-friendly guides focused on:
     </a>
 </p>
 
-<br />
-
+---
 <p align="center">
   <i>Supported by <a href="https://www.tublian.com/"><img src="https://tublian-newsletter-assets.s3.amazonaws.com/just-logo.png" width="20" style="vertical-align: middle"/></a></i>
 </p>
