@@ -3,6 +3,7 @@
         src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samuel%20Njuguna👋%20&fontSize=50&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20✍️%20Technical%20Writer%20🛡️%20Web%20Security%20Pentester%20🔌%20Electrical%20Engineer&descAlignY=55" />
 </p>
 
+### 🏛️ Founder of [Masterpiece Softwares & Marketing Solutions](https://masterpiecesoftwares.co.ke) | 🎮 Co-founder of Pinky Games
 
 # 🏅2026 Developer Reputation
 <p align="center">
